@@ -1,0 +1,5 @@
+nombre,latitud,longitud,puntuacion,comentarios
+Sweet & Cofee,-0.1080883,-78.4864128,4.5,35
+Cafe para dos,0.342323,-78.39483,4.8,40
+Cafeteria del parque,-0.321312,-78.322345,3.7,50
+Soul's Cofee,-0.432123,-78.45213,4.5,30
